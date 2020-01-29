@@ -4,7 +4,7 @@
 80df9b28     72aa436d     AC-GRID-FR-Personnels.pem http://grid-fr.renater.fr/                    1.103   I
 3f638905     37a553c6     AC-GRID-FR-Robots.pem    http://grid-fr.renater.fr/                    1.103   I
 14e86c33     5e02f50a     AC-GRID-FR-Services.pem  http://grid-fr.renater.fr/                    1.103   I
-3c58f906     157753a5     AddTrust-External-CA-Root.pem http://www.comodo.com/                        1.103   I
+3c58f906     157753a5     AddTrust-External-CA-Root.pem http://www.comodo.com/                        1.102   I
 393f7863     cc5645bd     AEGIS.pem                http://aegis-ca.rcub.bg.ac.rs/                1.103   I
 126f0acf     036b3363     ANSPGrid.pem             http://gridca.ansp.br                         1.103   I
 d0c2a341     3fb4d8a6     ArmeSFo.pem              http://www.escience.am/ca/                    1.103   I

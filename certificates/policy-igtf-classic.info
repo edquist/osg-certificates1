@@ -70,7 +70,7 @@ requires = CNRS2-Grid-FR = 1.103, \
     KISTIv3 = 1.103, \
     QuoVadis-Grid-ICA-G2 = 1.103, \
     DigiCertAssuredIDRootCA-Root = 1.103, \
-    AddTrust-External-CA-Root = 1.103, \
+    AddTrust-External-CA-Root = 1.102, \
     GermanGrid = 1.103, \
     DigiCertGridTrustCA-Classic = 1.103, \
     AEGIS = 1.103, \
