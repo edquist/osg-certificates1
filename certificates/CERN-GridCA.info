@@ -7,6 +7,6 @@ url = http://www.cern.ch/ca
 email = cern-ca-managers@cern.ch
 requires = CERN-Root-2
 status = accredited:classic
-version = 1.102
+version = 1.103
 sha1fp.0 = 63:C2:81:78:6D:94:14:D7:51:56:33:89:21:64:F1:85:A6:B0:D1:E0
 subjectdn = "/DC=ch/DC=cern/CN=CERN Grid Certification Authority"

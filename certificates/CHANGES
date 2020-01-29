@@ -8,6 +8,13 @@ the VDT, then please refer to this link:
    http://vdt.cs.wisc.edu/releases/certs/ca_changes.txt
 OSG CA Package in new format (md5, sha1 hashs) to support openssl 1.x
 
+===== Version 1.85 ===========
+Built 27 JAN 2020
+* Updated contact addresses for DigiCert (US)
+* Regrafted InCommon IGTF Server CA onto self-signed Comodo RSA CA (US)
+* Discontinued superfluous AddTrust External CA Root (US)
+* Discontinued AustrianGrid CA (AT)
+
 ===== Version 1.84 ===========
 Built 22 OCT 2019
 * Added CESNET-CA-4 ICA accredited classic CA for issuer roll-over (CZ)

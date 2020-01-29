@@ -6,6 +6,6 @@ email = grid-fr@renater.fr
 ca_url = http://cer.grid-fr.pncn.education.gouv.fr/ac-grid-fr-services.cer
 crl_url = http://crl.grid-fr.pncn.education.gouv.fr/ac-grid-fr-services.crl
 status = accredited:classic
-version = 1.102
+version = 1.103
 sha1fp.0 = 98:7B:6B:9F:E1:64:75:02:F1:DD:5A:DB:29:74:A5:7F:9D:57:94:B5
 subjectdn = "/C=FR/O=MENESR/OU=GRID-FR/CN=AC GRID-FR Services"

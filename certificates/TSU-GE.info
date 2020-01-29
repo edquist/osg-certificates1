@@ -7,6 +7,6 @@ policy_url = https://grid-ca.tsu.ge/index.php?a=main&pid=3&lang=eng
 email = grid-ca@tsu.ge
 status = accredited:classic
 url = https://grid-ca.tsu.ge/
-version = 1.102
+version = 1.103
 sha1fp.0 = 5C:2A:A9:D0:C1:D2:04:50:21:66:9A:57:E9:FB:D6:53:1B:3C:55:B1
 subjectdn = "/DC=GE/DC=TSU/CN=TSU Root CA"

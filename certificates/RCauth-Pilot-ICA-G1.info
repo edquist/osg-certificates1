@@ -10,6 +10,6 @@ policy_url = http://www.rcauth.eu/policy/
 email = ca@rcauth.eu
 status = accredited:iota
 url = https://www.rcauth.eu/
-version = 1.102
+version = 1.103
 sha1fp.0 = 8B:F3:1F:7D:46:57:B4:19:F5:D7:CB:A8:17:4E:E6:F9:C9:18:29:4D
 subjectdn = "/DC=eu/DC=rcauth/O=Certification Authorities/CN=Research and Collaboration Authentication Pilot G1 CA"

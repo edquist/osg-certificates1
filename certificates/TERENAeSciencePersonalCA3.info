@@ -10,6 +10,6 @@ policy_url = https://www.terena.org/activities/tcs/repository/
 requires = DigiCertAssuredIDRootCA-Root
 email = tcs-pma@terena.org
 status = accredited:mics
-version = 1.102
+version = 1.103
 sha1fp.0 = B1:3C:DB:C0:6C:11:38:35:C9:54:20:F7:A0:D7:8F:51:34:6D:72:7E
 subjectdn = "/C=NL/ST=Noord-Holland/L=Amsterdam/O=TERENA/CN=TERENA eScience Personal CA 3"

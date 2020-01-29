@@ -8,6 +8,6 @@ crl_url = http://crl1.darkmatter.ae/dmassureca.crl;http://crl2.darkmatter.ae/dma
 email = CA-Admins@darkmatter.ae
 status = accredited:classic
 requires = QuoVadis-Root-CA3G3
-version = 1.102
+version = 1.103
 sha1fp.0 = 6B:6F:A6:5B:1B:DC:2A:0F:3A:7E:66:B5:90:F9:32:97:B8:EB:56:B9
 subjectdn = "/C=AE/O=DarkMatter LLC/CN=DarkMatter Assured CA"

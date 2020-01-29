@@ -9,6 +9,6 @@ policy_url = https://ca.kenet.or.ke/media/kenet-draft-cp-cps-v-1.0.1.pdf
 email = ca@kenet.or.ke
 status = accredited:classic
 url = https://ca.kenet.or.ke/
-version = 1.102
+version = 1.103
 sha1fp.0 = CF:9E:40:8C:5F:3E:EC:37:05:C4:BE:9B:BB:22:4B:A8:DF:9A:CB:A9
 subjectdn = "/DC=ke/DC=kenet/O=Kenya Education Network Trust/OU=Research Services/CN=KENET CA"

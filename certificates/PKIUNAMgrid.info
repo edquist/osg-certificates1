@@ -9,5 +9,5 @@ crl_url = http://ca.unamgrid.unam.mx/pub/crl/unamgrid-crl.crl
 email = camanager@unam.mx
 status = accredited:classic
 sha1fp.0 = 1D:05:8F:6A:75:5A:A8:36:12:88:22:D2:8A:3A:31:EA:6C:2B:5A:B8
-version = 1.102
+version = 1.103
 subjectdn = "/C=MX/O=UNAM/OU=UNAMgrid/CN=PKIUNAMgrid"

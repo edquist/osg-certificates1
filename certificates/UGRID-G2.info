@@ -8,6 +8,6 @@ crl_url = http://ca.ugrid.org/ca2crl.der
 email = ca@ugrid.org
 status = accredited:classic
 url = https://ca.ugrid.org/
-version = 1.102
+version = 1.103
 sha1fp.0 = 58:86:89:27:79:7F:00:55:A4:C3:26:0E:EB:F1:ED:3D:0C:6A:B6:3A
 subjectdn = "/DC=org/DC=ugrid/CN=UGRID CA G2"

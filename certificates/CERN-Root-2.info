@@ -6,6 +6,6 @@ ca_url = http://cafiles.cern.ch/cafiles/certificates/CERN%20Root%20Certification
 url = http://www.cern.ch/ca
 email = cern-ca-managers@cern.ch
 status = accredited:classic
-version = 1.102
+version = 1.103
 sha1fp.0 = 57:6E:90:75:DD:66:92:8B:F2:5B:D9:52:D6:37:EA:AD:80:84:CC:9F
 subjectdn = "/C=ch/O=CERN/CN=CERN Root Certification Authority 2"

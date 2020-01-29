@@ -8,6 +8,6 @@ email = hpci-ca-support@nii.ac.jp
 status = accredited:mics
 url = https://www.hpci.nii.ac.jp/ca/
 policy_url = https://www.hpci.nii.ac.jp/ca/CP_CPS.html
-version = 1.102
+version = 1.103
 sha1fp.0 = 6D:75:9E:4D:E2:65:8D:BA:98:BD:3E:89:53:3E:0A:2F:D4:DB:38:34
 subjectdn = "/C=JP/O=NII/OU=HPCI/CN=HPCI CA"
