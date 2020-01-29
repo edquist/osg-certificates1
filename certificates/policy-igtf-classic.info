@@ -70,6 +70,7 @@ requires = CNRS2-Grid-FR = 1.103, \
     KISTIv3 = 1.103, \
     QuoVadis-Grid-ICA-G2 = 1.103, \
     DigiCertAssuredIDRootCA-Root = 1.103, \
+    AddTrust-External-CA-Root = 1.103, \
     GermanGrid = 1.103, \
     DigiCertGridTrustCA-Classic = 1.103, \
     AEGIS = 1.103, \
@@ -149,6 +150,7 @@ subjectdn = "/C=FR/O=CNRS/CN=GRID2-FR", \
     "/C=KR/O=KISTI/CN=KISTI Certification Authority", \
     "/C=BM/O=QuoVadis Limited/CN=QuoVadis Grid ICA G2", \
     "/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Assured ID Root CA", \
+    "/C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root", \
     "/C=DE/O=GermanGrid/CN=GridKa-CA", \
     "/C=US/O=DigiCert Grid/OU=www.digicert.com/CN=DigiCert Grid Trust CA", \
     "/C=RS/O=AEGIS/CN=AEGIS-CA", \
@@ -258,5 +260,4 @@ obsoletes = CyGrid-old, \
     CyGrid, \
     cilogon-osg, \
     AustrianGrid, \
-    CESNET-CA-3, \
-    AddTrust-External-CA-Root
+    CESNET-CA-3
